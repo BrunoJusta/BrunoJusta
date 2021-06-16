@@ -12,3 +12,5 @@ digital illustrations, especially I like to create [my own Pokémon](https://www
 - ⚔️ Fun fact: My last name, Justa, translated into English is actually Joust and not Fair.
 
 - 🦆 Portfolio: [bruno-justa.me](www.bruno-justa.me)
+
+![](https://komarev.com/ghpvc/?username=BrunoJusta&color=f05454)
