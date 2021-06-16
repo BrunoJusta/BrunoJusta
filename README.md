@@ -8,4 +8,3 @@ Digital arts lover, full time dreamer. I'm a fullstack web dev, amateur artist a
 - ⚡ Fun fact: My last name, Justa, translated into English is actually Joust and not Fair.
 
 My Portfolio: [bruno-justa.me](www.bruno-justa.me)
-![me3](https://user-images.githubusercontent.com/44089259/122214548-1fe42000-cea2-11eb-90f2-4128a7dde25c.png)
