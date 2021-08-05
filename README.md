@@ -11,6 +11,6 @@ digital illustrations, especially I like to create [my own Pokémon](https://www
 - 📫 How to reach me: [Email](mailto:brunomajusta@gmail.com), [LinkedIn](https://www.linkedin.com/in/bruno-justa98/), [Instagram](https://www.instagram.com/brunojusta5/)
 - ⚔️ Fun fact: My last name, Justa, translated into English is actually Joust and not Fair.
 
-- 🦆 Portfolio: [www.bruno-justa.me](https://www.bruno-justa.me)
+- 🦆 Portfolio: [bruno-justa.me](https://www.bruno-justa.me)
 
 ![](https://komarev.com/ghpvc/?username=BrunoJusta&color=f05454)
