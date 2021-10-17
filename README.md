@@ -6,7 +6,7 @@ digital illustrations, especially I like to create [my own Pokémon](https://www
 
 - ⚡ I wish to learn more about web development and UI/UX so i can become even better.
 
-- 🦖 I’m currently doing an internship at [WillBe Collecive](https://www.linkedin.com/company/willbecollective/)
+- 🦖 I’m currently working at [WillBe Collecive](https://www.linkedin.com/company/willbecollective/)
 - 🌱 I’m currently learning more about React.js
 - 📫 How to reach me: [Email](mailto:brunomajusta@gmail.com), [LinkedIn](https://www.linkedin.com/in/bruno-justa98/), [Instagram](https://www.instagram.com/brunojusta5/)
 - ⚔️ Fun fact: My last name, Justa, translated into English is actually Joust and not Fair.
